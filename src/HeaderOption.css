@@ -1,0 +1,16 @@
+.headerOption {
+  border-left: 1px solid gray;
+  padding: auto;
+  cursor: pointer;
+  /* align-items: center; */
+  /* object-fit: contain; */
+}
+
+.headerOption__text {
+  text-transform: uppercase;
+  font-size: 10px;
+  font-weight: 500;
+}
+.headerOption:hover {
+  color: #ff8a00;
+}

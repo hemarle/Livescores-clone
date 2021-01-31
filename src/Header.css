@@ -1,0 +1,10 @@
+.header__option {
+  /* width: 70%; */
+  /* margin: auto; */
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid gray;
+}
+.header > img {
+  max-width: 250px;
+}

@@ -1,0 +1,58 @@
+.rightbarOption__ads {
+  margin-top: 100px;
+  height: 170px;
+}
+
+.rightbarOption__title {
+  border: 1px solid grey;
+  font-size: 12px;
+  font-weight: 800;
+  background-color: #333333;
+  color: #cccccc;
+}
+.rightbarOption__table {
+  font-size: 5px;
+  background-color: white;
+  color: #000;
+}
+.rightbarOption__tableTitle {
+  display: flex;
+  background-color: #333333;
+  color: #cccccc;
+  align-items: center;
+}
+.rightbarOption__tableTitleLeague {
+  color: #ffcc66;
+  flex: 0.8;
+  font-size: 9px;
+  font-weight: 700;
+}
+.rightbarOption__tableTitleP {
+  flex: 0.1;
+  font-size: 7px;
+  font-weight: 700;
+}
+.rightbarOption__tableTitlePTS {
+  flex: 0.1;
+  font-size: 7px;
+  font-weight: 700;
+}
+
+.rightbarOption__tableBody {
+  font-size: 4px;
+  display: flex;
+}
+.rightbarOption__position {
+  flex: 0.1;
+}
+.rightbarOption__club {
+  flex: 0.7;
+  font-size: 4px;
+}
+.rightbarOption__played {
+  flex: 0.1;
+  margin-right: 8px;
+}
+.rightbarOption__points {
+  flex: 0.1;
+}
