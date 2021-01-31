@@ -25,10 +25,34 @@
 }
 .league__score {
   color: blue;
-  /* align-items: center; */
+
   font-size: 5px;
 }
 .league__home,
 .league__away {
   font-size: 5px;
+}
+
+@media screen and (min-width: 500px) {
+  .league__score {
+    font-size: 20px;
+  }
+  .league__home,
+  .league__away {
+    font-size: 20px;
+  }
+
+  .league__time {
+    color: #000000;
+    font-size: 20px;
+  }
+  .league__name {
+    font-size: 25px;
+  }
+  .league__date {
+    font-size: 25px;
+  }
+  .league__away {
+    padding-left: 60px !important;
+  }
 }

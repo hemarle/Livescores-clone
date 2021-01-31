@@ -37,7 +37,8 @@
     background-color: #cfcfcf;
   } */
   .mainbar__advert > img {
-    width: 225px;
+    width: 580px;
     height: fit-content;
+    margin-left: 20px;
   }
 }
