@@ -2,8 +2,8 @@
   border-left: 1px solid gray;
   padding: auto;
   cursor: pointer;
-  /* align-items: center; */
-  /* object-fit: contain; */
+  align-content: center;
+  align-items: center;
 }
 
 .headerOption__text {
@@ -11,6 +11,7 @@
   font-size: 10px;
   font-weight: 500;
 }
+
 .headerOption:hover {
   color: #ff8a00;
 }
@@ -18,5 +19,7 @@
 @media screen and (min-width: 500px) {
   .headerOption__text {
     font-size: 20px;
+    margin-left: 40px;
+    margin-right: 20px;
   }
 }

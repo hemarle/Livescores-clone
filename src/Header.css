@@ -8,6 +8,8 @@
 .header > img {
   width: 250px;
 }
+.header {
+}
 @media screen and (min-width: 500px) {
   .header > img {
     width: 550px;

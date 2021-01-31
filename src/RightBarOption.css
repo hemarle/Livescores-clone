@@ -108,4 +108,7 @@
   .rightbarOption__points {
     flex: 0.1;
   }
+  .rightbarOption__title {
+    font-size: 22px;
+  }
 }
